@@ -6,7 +6,7 @@
 <img align="right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966">
 
 
-🔭 Exploring Machine Learning.<br>🌱 I’m currently working on Something Cool 😉<br>💬 Ping me about Programming Fundamentals, OOP and DSA.<br>⚡ Fun Fact: When I'm having fun, I'm the best in the world.
+🔭 Exploring Web Development.<br>🌱 I’m currently working on Something Cool 😉<br>💬 Ping me about Programming Fundamentals, OOP and DSA.<br>⚡ Fun Fact: When I'm having fun, I'm the best in the world.
 
 
 
