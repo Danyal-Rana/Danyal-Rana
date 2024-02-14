@@ -32,8 +32,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Danyal-Rana&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![committers.top badge](https://user-badge.committers.top/pakistan/Danyal-Rana.svg)](https://user-badge.committers.top/pakistan/Danyal-Rana
 ---
 [![](https://visitcount.itsvg.in/api?id=Danyal-Rana&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
