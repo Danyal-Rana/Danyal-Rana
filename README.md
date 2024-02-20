@@ -1,4 +1,4 @@
-![My Image](https://giphy.com/embed/CcwLAV11cALh3OuEJ5)
+![My Image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRuc21nYmFydzBoZTg3Y2EzaTZkcWw3MTQ4a2czcW94bmptMnlodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif)
 
 <h1 align="center">Hi 👋, Danyal here !</h1>
 <h3 align="center">💫 A Computer Science undergraduate interested in Emerging Technologies.</h3>
