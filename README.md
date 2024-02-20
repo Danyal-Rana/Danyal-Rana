@@ -1,4 +1,4 @@
-![My Image](github.png)
+![My Image]([github.png](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJmb3Y3ZnZkamFzcmpqanB5cnZ6dHl4b24ycHQ1ZmVxZWp1YXp4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif))
 
 <h1 align="center">Hi 👋, Danyal here !</h1>
 <h3 align="center">💫 A Computer Science undergraduate interested in Emerging Technologies.</h3>
