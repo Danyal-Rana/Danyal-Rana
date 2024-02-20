@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, Danyal here !</h1>
 <h3 align="center">💫 A Computer Science undergraduate interested in Emerging Technologies.</h3>
 
-<img align="right" alt = "coding" width = "400" src = "<iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>">
+<img align="right" alt = "coding" width = "400" src = "https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480">
 
 
 🔭 Exploring Web Development.<br>🌱 I’m currently working on Something Cool 😉<br>💬 Ping me about Programming Fundamentals, OOP and DSA.<br>⚡ Fun Fact: When I'm having fun, I'm the best in the world.
