@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, Danyal here !</h1>
 <h3 align="center">💫 A Computer Science undergraduate interested in Emerging Technologies.</h3>
 
-<img align="right" alt = "coding" width = "400" src = "https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480">
+<img align="right" alt = "coding" width = "400" src = "[https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBhYnZiNGU1cDdnMnM5ZWNiNzVidGQ3emFxYTFydHg2MmdkOTZuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)">
 
 
 🔭 Exploring Web Development.<br>🌱 I’m currently working on Something Cool 😉<br>💬 Ping me about Programming Fundamentals, OOP and DSA.<br>⚡ Fun Fact: When I'm having fun, I'm the best in the world.
